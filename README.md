@@ -1,5 +1,6 @@
 # Web-Development
-Collection of various web development projects for designed and developed for Practice.
+Collection of various web development projects designed and developed for front end web development Practice.
+**Tech Stack**: HTML, CSS, JavaScript, React 
 
 ## Content page
 - Bank Manager
